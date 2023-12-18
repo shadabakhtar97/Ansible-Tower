@@ -9,7 +9,7 @@ Bundled installer:
 --------------------
 https://releases.ansible.com/ansible-tower/setup-bundle/
 
-`wget [https://releases.ansible.com/ansible-...](https://releases.ansible.com/ansible-tower/setup-bundle/ansible-tower-setup-bundle-3.6.2-1.el8.tar.gz`)
+`wget https://releases.ansible.com/ansible-tower/setup-bundle/ansible-tower-setup-bundle-3.6.2-1.el8.tar.gz
 
 tar -zxvf ansible-tower-setup-bundle-3.6.2-1.el8.tar.gz`
 
