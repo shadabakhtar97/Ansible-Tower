@@ -1,7 +1,7 @@
 # Ansible-Tower
 Learn Ansible Tower Deep Dive
 
-$ cat /etc/system-release
+`cat /etc/system-release`
 Red Hat Enterprise Linux release 8.6 (Ootpa)
 
 
