@@ -22,11 +22,13 @@ rabbitmq_password='xxxxxxxxxxx'
 `sudo ./setup.sh`
 
 Access Ansible Tower UI/Web Based:
-------------------------------------------------------
+-----------------------------------
 http://(ansible-tower-vm-public-ip-address)/
 
 Username: admin
 
 Password: xxxxxxxxxxx
 
+Check Script Status:
+---------------------
 `ps -ef|grep sh`
